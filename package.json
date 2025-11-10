@@ -2,16 +2,16 @@
   "name": "InovaTech",
   "version": "1.0.0",
   "description": "",
-  "homepage": "",
+  "homepage": "https://github.com/MuriloCarpinedo123/InovaTech---10-11-25",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/MuriloCarpinedo123/InovaTech---10-11-25/issues"
   },
   "repository": {
     "type": "git",
     "url": ""
   },
   "license": "ISC",
-  "author": "",
+  "author": "Murilo Duarte Carpinedo, João Miguel dos Santos Silva, Lucas Mickael",
   "type": "module",
   "main": "app.js",
   "scripts": {
